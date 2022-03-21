@@ -1,2 +1,9 @@
 # odin-recipes
-First Odin Project project
+First Odin Project
+
+Brushing up on basic skills learned in bootcamp
+
+Will demonstrate:
+*basic use of html tags
+*use of git/github
+*
